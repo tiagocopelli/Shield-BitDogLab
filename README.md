@@ -8,6 +8,5 @@ conversor USB-TTL, e suporte a prototipagem rápida com mini
 protoboard integrada. Além disso, inclui um relé de 5V, ideal para
 acionamento de cargas externas com segurança e isolamento.
 
-![Placa PCB](Shield.jpg)
 <img src="Shield.jpg" alt="Placa PCB" width="600">
 
